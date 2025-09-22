@@ -21,7 +21,6 @@ emp.getInfo()
 emp.greet()
 
 
-
 # STATIC METHOD :-
 
 # When  in the function can't call any object then we don't need to add self 
@@ -42,6 +41,7 @@ emp = employee()
 print( emp.language,emp.salary)
 emp.getInfo()
 emp.greet()
+
 
 
 
