@@ -1,2 +1,6 @@
 Decorator.py
-Getter and setter.py
+Getter and setter.py 
+Magic/Dunder Method
+exercise 7 
+exercise 8 
+Creating command line utility
